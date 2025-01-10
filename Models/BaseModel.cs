@@ -1,6 +1,6 @@
 namespace ControleDeHoras.Models;
 
-public class Base
+public class BaseModel
 {
     public Guid ID { get; set; }
     public bool Ativo { get; set; }
